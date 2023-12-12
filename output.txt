@@ -1,0 +1,32 @@
+Hello World
+Program Executed Sucessfully
+
+---Interrupt Status---
+SI: 3
+PI: 0
+TI: 0
+---Register Status---
+R : [0, 0, 0, 0]
+IC: [0, 3]
+IR: ['H', '\x00', '\x00', '\x00']
+C : False
+PTR: [0, 0, 2, 0]
+
+
+VIIT
+VIT
+NOT SAME
+Program Executed Sucessfully
+
+---Interrupt Status---
+SI: 3
+PI: 0
+TI: 0
+---Register Status---
+R : ['V', 'I', 'I', 'T']
+IC: [1, 1]
+IR: ['H', '\x00', '\x00', '\x00']
+C : False
+PTR: [0, 2, 7, 0]
+
+
